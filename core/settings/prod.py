@@ -34,13 +34,13 @@ LOGGING = {
 }
 
 
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": site_settings.DATABASE_NAME,
-        "USER": site_settings.DATABASE_USER,
-        "PASSWORD": site_settings.DATABASE_PASSWORD,
-        "HOST": site_settings.DATABASE_HOST,
-        "PORT": site_settings.DATABASE_PORT,
-    }
-}
+# DATABASES = {
+#     "default": {
+#         "ENGINE": "django.db.backends.postgresql_psycopg2",
+#         "NAME": site_settings.DATABASE_NAME,
+#         "USER": site_settings.DATABASE_USER,
+#         "PASSWORD": site_settings.DATABASE_PASSWORD,
+#         "HOST": site_settings.DATABASE_HOST,
+#         "PORT": site_settings.DATABASE_PORT,
+#     }
+# }

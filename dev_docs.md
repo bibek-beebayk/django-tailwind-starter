@@ -1,0 +1,2 @@
+- Create a virtualenv and install python dependencies.
+- install tailwindcss and dependencies ```npm install```
